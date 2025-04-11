@@ -1,1 +1,10 @@
 SpeechRecognition
+webbrowser
+pyttsx3
+sounddevice
+requests
+musicLibarby
+pygame
+os
+gTTS
+OpenAI
